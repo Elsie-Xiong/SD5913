@@ -1,11 +1,19 @@
 # Process
 
-## Reflection Development
+## How I Used AI
 
-I started by thinking about the question “Why are we here?” and connecting it with my background in Digital Media Art, my previous experience with interactive media projects, and my future interest in HCI and interactive technology. Based on these experiences, I developed my reflection around how my understanding of programming has changed from seeing it simply as a technical tool to seeing it as a way to turn design and research ideas into testable prototypes.
+I used ChatGPT mainly as a step-by-step guide while learning the software and workflow required for this assignment. As I had very little previous experience with Git, GitHub, Visual Studio Code, GitHub Desktop, or Markdown, I used AI to understand what these tools were for and how they worked together.
 
-## GitHub and Markdown
+During the process, I asked for guidance on saving files, creating commits, pushing changes to GitHub, and understanding error messages. When pushing from Visual Studio Code failed, I used AI guidance to identify the problem and then completed the push through GitHub Desktop. I also learned how Markdown formatting affects the way a README is displayed on GitHub.
 
-I learned how to use Markdown to organize and format my reflection in README.md. I also learned the basic GitHub workflow, including saving changes, creating commits, and pushing them to a public GitHub repository.
+## What I Kept
 
-After uploading the first version, I checked the README on GitHub and noticed that the paragraphs were not clearly separated. I then went back to the file, improved the Markdown formatting, created another commit, and pushed the updated version to GitHub.
+One useful piece of guidance I kept was the workflow of making changes locally, saving them, creating a commit with a clear message, and then pushing the commit to GitHub. Following this process helped me understand that GitHub is not simply a place to upload finished files, but also a way to record the development of a project over time.
+
+I also kept the suggestion to check the actual README on GitHub after pushing it. This helped me notice that my paragraphs were not clearly separated, so I returned to the Markdown file, adjusted the spacing, created another commit, and pushed the improved version.
+
+## What I Rejected
+
+I rejected some AI-generated descriptions of my process because they sounded reasonable but did not accurately represent what I had actually done. For example, AI suggested saying that I first wrote the content in Chinese and then used a translation tool to convert it into English, and that I used ChatGPT to check the grammar and naturalness of the final text. I removed these descriptions because they were not an accurate record of my process.
+
+This was a useful reminder that an AI-generated explanation can sound convincing without being true. I still needed to compare its suggestions with what I had actually done and decide what should or should not be included.
